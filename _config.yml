@@ -28,9 +28,11 @@ twitter_username: levienvanzon
 github_username:  lvzon
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll-text-theme
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
